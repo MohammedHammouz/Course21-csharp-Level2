@@ -1,0 +1,7 @@
+C:\Users\m7ama\source\repos\ConsoleButtonEvent\ConsoleButtonEvent\bin\Debug\ConsoleButtonEvent.exe.config
+C:\Users\m7ama\source\repos\ConsoleButtonEvent\ConsoleButtonEvent\bin\Debug\ConsoleButtonEvent.exe
+C:\Users\m7ama\source\repos\ConsoleButtonEvent\ConsoleButtonEvent\bin\Debug\ConsoleButtonEvent.pdb
+C:\Users\m7ama\source\repos\ConsoleButtonEvent\ConsoleButtonEvent\obj\Debug\ConsoleButtonEvent.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\ConsoleButtonEvent\ConsoleButtonEvent\obj\Debug\ConsoleButtonEvent.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\ConsoleButtonEvent\ConsoleButtonEvent\obj\Debug\ConsoleButtonEvent.exe
+C:\Users\m7ama\source\repos\ConsoleButtonEvent\ConsoleButtonEvent\obj\Debug\ConsoleButtonEvent.pdb

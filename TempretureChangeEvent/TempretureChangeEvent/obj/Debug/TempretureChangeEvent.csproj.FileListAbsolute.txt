@@ -1,0 +1,7 @@
+C:\Users\m7ama\source\repos\TempretureChangeEvent\TempretureChangeEvent\bin\Debug\TempretureChangeEvent.exe.config
+C:\Users\m7ama\source\repos\TempretureChangeEvent\TempretureChangeEvent\bin\Debug\TempretureChangeEvent.exe
+C:\Users\m7ama\source\repos\TempretureChangeEvent\TempretureChangeEvent\bin\Debug\TempretureChangeEvent.pdb
+C:\Users\m7ama\source\repos\TempretureChangeEvent\TempretureChangeEvent\obj\Debug\TempretureChangeEvent.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\TempretureChangeEvent\TempretureChangeEvent\obj\Debug\TempretureChangeEvent.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\TempretureChangeEvent\TempretureChangeEvent\obj\Debug\TempretureChangeEvent.exe
+C:\Users\m7ama\source\repos\TempretureChangeEvent\TempretureChangeEvent\obj\Debug\TempretureChangeEvent.pdb

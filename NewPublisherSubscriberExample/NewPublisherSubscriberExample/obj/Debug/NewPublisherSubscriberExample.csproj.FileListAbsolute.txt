@@ -1,0 +1,7 @@
+C:\Users\m7ama\source\repos\NewPublisherSubscriberExample\NewPublisherSubscriberExample\bin\Debug\NewPublisherSubscriberExample.exe.config
+C:\Users\m7ama\source\repos\NewPublisherSubscriberExample\NewPublisherSubscriberExample\bin\Debug\NewPublisherSubscriberExample.exe
+C:\Users\m7ama\source\repos\NewPublisherSubscriberExample\NewPublisherSubscriberExample\bin\Debug\NewPublisherSubscriberExample.pdb
+C:\Users\m7ama\source\repos\NewPublisherSubscriberExample\NewPublisherSubscriberExample\obj\Debug\NewPublisherSubscriberExample.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\NewPublisherSubscriberExample\NewPublisherSubscriberExample\obj\Debug\NewPublisherSubscriberExample.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\NewPublisherSubscriberExample\NewPublisherSubscriberExample\obj\Debug\NewPublisherSubscriberExample.exe
+C:\Users\m7ama\source\repos\NewPublisherSubscriberExample\NewPublisherSubscriberExample\obj\Debug\NewPublisherSubscriberExample.pdb

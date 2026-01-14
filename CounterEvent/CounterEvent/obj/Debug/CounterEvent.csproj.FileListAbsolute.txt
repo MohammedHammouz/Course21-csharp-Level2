@@ -1,0 +1,7 @@
+C:\Users\m7ama\source\repos\CounterEvent\CounterEvent\bin\Debug\CounterEvent.exe.config
+C:\Users\m7ama\source\repos\CounterEvent\CounterEvent\bin\Debug\CounterEvent.exe
+C:\Users\m7ama\source\repos\CounterEvent\CounterEvent\bin\Debug\CounterEvent.pdb
+C:\Users\m7ama\source\repos\CounterEvent\CounterEvent\obj\Debug\CounterEvent.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\CounterEvent\CounterEvent\obj\Debug\CounterEvent.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\CounterEvent\CounterEvent\obj\Debug\CounterEvent.exe
+C:\Users\m7ama\source\repos\CounterEvent\CounterEvent\obj\Debug\CounterEvent.pdb
