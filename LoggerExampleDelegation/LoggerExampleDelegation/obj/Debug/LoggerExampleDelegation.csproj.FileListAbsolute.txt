@@ -1,0 +1,7 @@
+C:\Users\m7ama\source\repos\LoggerExampleDelegation\LoggerExampleDelegation\bin\Debug\LoggerExampleDelegation.exe.config
+C:\Users\m7ama\source\repos\LoggerExampleDelegation\LoggerExampleDelegation\bin\Debug\LoggerExampleDelegation.exe
+C:\Users\m7ama\source\repos\LoggerExampleDelegation\LoggerExampleDelegation\bin\Debug\LoggerExampleDelegation.pdb
+C:\Users\m7ama\source\repos\LoggerExampleDelegation\LoggerExampleDelegation\obj\Debug\LoggerExampleDelegation.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\LoggerExampleDelegation\LoggerExampleDelegation\obj\Debug\LoggerExampleDelegation.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\LoggerExampleDelegation\LoggerExampleDelegation\obj\Debug\LoggerExampleDelegation.exe
+C:\Users\m7ama\source\repos\LoggerExampleDelegation\LoggerExampleDelegation\obj\Debug\LoggerExampleDelegation.pdb

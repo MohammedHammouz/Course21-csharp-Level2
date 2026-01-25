@@ -1,0 +1,7 @@
+C:\Users\m7ama\source\repos\OrderEventExample\OrderEventExample\bin\Debug\OrderEventExample.exe.config
+C:\Users\m7ama\source\repos\OrderEventExample\OrderEventExample\bin\Debug\OrderEventExample.exe
+C:\Users\m7ama\source\repos\OrderEventExample\OrderEventExample\bin\Debug\OrderEventExample.pdb
+C:\Users\m7ama\source\repos\OrderEventExample\OrderEventExample\obj\Debug\OrderEventExample.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\OrderEventExample\OrderEventExample\obj\Debug\OrderEventExample.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\OrderEventExample\OrderEventExample\obj\Debug\OrderEventExample.exe
+C:\Users\m7ama\source\repos\OrderEventExample\OrderEventExample\obj\Debug\OrderEventExample.pdb

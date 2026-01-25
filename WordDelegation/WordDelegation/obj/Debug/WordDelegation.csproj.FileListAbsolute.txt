@@ -1,0 +1,7 @@
+C:\Users\m7ama\source\repos\WordDelegation\WordDelegation\bin\Debug\WordDelegation.exe.config
+C:\Users\m7ama\source\repos\WordDelegation\WordDelegation\bin\Debug\WordDelegation.exe
+C:\Users\m7ama\source\repos\WordDelegation\WordDelegation\bin\Debug\WordDelegation.pdb
+C:\Users\m7ama\source\repos\WordDelegation\WordDelegation\obj\Debug\WordDelegation.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\WordDelegation\WordDelegation\obj\Debug\WordDelegation.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\WordDelegation\WordDelegation\obj\Debug\WordDelegation.exe
+C:\Users\m7ama\source\repos\WordDelegation\WordDelegation\obj\Debug\WordDelegation.pdb

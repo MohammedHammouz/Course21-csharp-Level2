@@ -1,0 +1,7 @@
+C:\Users\m7ama\source\repos\OperationsDelegation\OperationsDelegation\bin\Debug\OperationsDelegation.exe.config
+C:\Users\m7ama\source\repos\OperationsDelegation\OperationsDelegation\bin\Debug\OperationsDelegation.exe
+C:\Users\m7ama\source\repos\OperationsDelegation\OperationsDelegation\bin\Debug\OperationsDelegation.pdb
+C:\Users\m7ama\source\repos\OperationsDelegation\OperationsDelegation\obj\Debug\OperationsDelegation.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\OperationsDelegation\OperationsDelegation\obj\Debug\OperationsDelegation.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\OperationsDelegation\OperationsDelegation\obj\Debug\OperationsDelegation.exe
+C:\Users\m7ama\source\repos\OperationsDelegation\OperationsDelegation\obj\Debug\OperationsDelegation.pdb
