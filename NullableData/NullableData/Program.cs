@@ -54,7 +54,8 @@ namespace NullableData
                 Console.WriteLine("nulablleInt2 has no value");
             }
             People person = new People("j", 22);
-            
+            Console.WriteLine("Hello world");
         }
+        
     }
 }
