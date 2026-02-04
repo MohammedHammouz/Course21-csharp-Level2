@@ -8,6 +8,32 @@ namespace NullableData
 {
     internal class Program
     {
+        public class  People
+        {
+            private string _Name;
+            private int _Age;
+            public string Name
+            {
+                get { return _Name; }
+                set
+                {
+                    _Name = value;
+                }
+            }
+            public int Age
+            {
+                get { return _Age; }
+                set
+                {
+                    _Age = value;
+                }
+            }
+            public People(string Name,int Age)
+            {
+                _Name = Name;
+                _Age = Age;
+            }
+        }
         static void Main(string[] args)
         {
             Nullable<int> nullableInt1 = null;
@@ -27,6 +53,8 @@ namespace NullableData
             {
                 Console.WriteLine("nulablleInt2 has no value");
             }
+            People person = new People("j", 22);
+            
         }
     }
 }
