@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m7ama\\OneDrive\\Desktop\\Course21\\Course21-csharp-Level2\\BinarySerialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53866AE8-5C6E-42B0-888E-78F1B2A48E90}|BinarySerialization\\BinarySerialization.csproj|c:\\users\\m7ama\\onedrive\\desktop\\course21\\course21-csharp-level2\\binaryserialization\\binaryserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53866AE8-5C6E-42B0-888E-78F1B2A48E90}|BinarySerialization\\BinarySerialization.csproj|solutionrelative:binaryserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m7ama\\OneDrive\\Desktop\\Course21\\Course21-csharp-Level2\\BinarySerialization\\BinarySerialization\\Program.cs",
+              "RelativeDocumentMoniker": "BinarySerialization\\Program.cs",
+              "ToolTip": "C:\\Users\\m7ama\\OneDrive\\Desktop\\Course21\\Course21-csharp-Level2\\BinarySerialization\\BinarySerialization\\Program.cs",
+              "RelativeToolTip": "BinarySerialization\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:25:02.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

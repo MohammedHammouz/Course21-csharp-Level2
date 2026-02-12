@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.pdb

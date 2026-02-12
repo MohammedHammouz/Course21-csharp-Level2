@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb
