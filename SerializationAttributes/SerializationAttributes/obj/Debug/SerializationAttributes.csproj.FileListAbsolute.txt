@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SerializationAttributes\SerializationAttributes\bin\Debug\SerializationAttributes.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SerializationAttributes\SerializationAttributes\bin\Debug\SerializationAttributes.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SerializationAttributes\SerializationAttributes\bin\Debug\SerializationAttributes.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SerializationAttributes\SerializationAttributes\obj\Debug\SerializationAttributes.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SerializationAttributes\SerializationAttributes\obj\Debug\SerializationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SerializationAttributes\SerializationAttributes\obj\Debug\SerializationAttributes.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SerializationAttributes\SerializationAttributes\obj\Debug\SerializationAttributes.pdb
