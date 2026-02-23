@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\TypeClassReflection\TypeClassReflection\bin\Debug\TypeClassReflection.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\TypeClassReflection\TypeClassReflection\bin\Debug\TypeClassReflection.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\TypeClassReflection\TypeClassReflection\bin\Debug\TypeClassReflection.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\TypeClassReflection\TypeClassReflection\obj\Debug\TypeClassReflection.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\TypeClassReflection\TypeClassReflection\obj\Debug\TypeClassReflection.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\TypeClassReflection\TypeClassReflection\obj\Debug\TypeClassReflection.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\TypeClassReflection\TypeClassReflection\obj\Debug\TypeClassReflection.pdb
