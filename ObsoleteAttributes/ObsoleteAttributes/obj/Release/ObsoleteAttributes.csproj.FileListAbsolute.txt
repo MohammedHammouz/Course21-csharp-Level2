@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ObsoleteAttributes\ObsoleteAttributes\bin\Release\ObsoleteAttributes.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ObsoleteAttributes\ObsoleteAttributes\bin\Release\ObsoleteAttributes.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ObsoleteAttributes\ObsoleteAttributes\bin\Release\ObsoleteAttributes.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ObsoleteAttributes\ObsoleteAttributes\obj\Release\ObsoleteAttributes.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ObsoleteAttributes\ObsoleteAttributes\obj\Release\ObsoleteAttributes.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ObsoleteAttributes\ObsoleteAttributes\obj\Release\ObsoleteAttributes.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ObsoleteAttributes\ObsoleteAttributes\obj\Release\ObsoleteAttributes.pdb
