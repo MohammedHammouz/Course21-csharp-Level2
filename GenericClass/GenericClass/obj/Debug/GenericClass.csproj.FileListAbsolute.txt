@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\GenericClass\GenericClass\bin\Debug\GenericClass.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\GenericClass\GenericClass\bin\Debug\GenericClass.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\GenericClass\GenericClass\bin\Debug\GenericClass.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\GenericClass\GenericClass\obj\Debug\GenericClass.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\GenericClass\GenericClass\obj\Debug\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\GenericClass\GenericClass\obj\Debug\GenericClass.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\GenericClass\GenericClass\obj\Debug\GenericClass.pdb
