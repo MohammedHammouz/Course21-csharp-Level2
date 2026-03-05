@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\CustomAttributesForValidation\CustomAttributesForValidation\bin\Debug\CustomAttributesForValidation.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\CustomAttributesForValidation\CustomAttributesForValidation\bin\Debug\CustomAttributesForValidation.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\CustomAttributesForValidation\CustomAttributesForValidation\bin\Debug\CustomAttributesForValidation.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\CustomAttributesForValidation\CustomAttributesForValidation\obj\Debug\CustomAttributesForValidation.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\CustomAttributesForValidation\CustomAttributesForValidation\obj\Debug\CustomAttributesForValidation.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\CustomAttributesForValidation\CustomAttributesForValidation\obj\Debug\CustomAttributesForValidation.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\CustomAttributesForValidation\CustomAttributesForValidation\obj\Debug\CustomAttributesForValidation.pdb
