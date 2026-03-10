@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ReadingFromRegistry\ReadingFromRegistry\bin\Debug\ReadingFromRegistry.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ReadingFromRegistry\ReadingFromRegistry\bin\Debug\ReadingFromRegistry.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ReadingFromRegistry\ReadingFromRegistry\bin\Debug\ReadingFromRegistry.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ReadingFromRegistry\ReadingFromRegistry\obj\Debug\ReadingFromRegistry.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ReadingFromRegistry\ReadingFromRegistry\obj\Debug\ReadingFromRegistry.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ReadingFromRegistry\ReadingFromRegistry\obj\Debug\ReadingFromRegistry.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\ReadingFromRegistry\ReadingFromRegistry\obj\Debug\ReadingFromRegistry.pdb
