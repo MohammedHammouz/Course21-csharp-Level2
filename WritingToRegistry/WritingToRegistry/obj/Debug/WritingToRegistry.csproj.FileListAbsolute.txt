@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\WritingToRegistry\WritingToRegistry\obj\Debug\WritingToRegistry.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\WritingToRegistry\WritingToRegistry\obj\Debug\WritingToRegistry.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\WritingToRegistry\WritingToRegistry\bin\Debug\WritingToRegistry.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\WritingToRegistry\WritingToRegistry\bin\Debug\WritingToRegistry.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\WritingToRegistry\WritingToRegistry\bin\Debug\WritingToRegistry.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\WritingToRegistry\WritingToRegistry\obj\Debug\WritingToRegistry.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\WritingToRegistry\WritingToRegistry\obj\Debug\WritingToRegistry.pdb
