@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\AppConfiguration\AppConfiguration\bin\Debug\AppConfiguration.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\AppConfiguration\AppConfiguration\bin\Debug\AppConfiguration.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\AppConfiguration\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\AppConfiguration\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\AppConfiguration\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\AppConfiguration\AppConfiguration\obj\Debug\AppConfiguration.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\AppConfiguration\AppConfiguration\obj\Debug\AppConfiguration.pdb
