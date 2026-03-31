@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\EventLog\EventLog\bin\Debug\EventLog.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\EventLog\EventLog\bin\Debug\EventLog.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\EventLog\EventLog\bin\Debug\EventLog.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\EventLog\EventLog\obj\Debug\EventLog.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\EventLog\EventLog\obj\Debug\EventLog.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\EventLog\EventLog\obj\Debug\EventLog.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\EventLog\EventLog\obj\Debug\EventLog.pdb
