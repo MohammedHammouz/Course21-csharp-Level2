@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\UsingStringBuilder\UsingStringBuilder\bin\Debug\UsingStringBuilder.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\UsingStringBuilder\UsingStringBuilder\bin\Debug\UsingStringBuilder.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\UsingStringBuilder\UsingStringBuilder\bin\Debug\UsingStringBuilder.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\UsingStringBuilder\UsingStringBuilder\obj\Debug\UsingStringBuilder.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\UsingStringBuilder\UsingStringBuilder\obj\Debug\UsingStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\UsingStringBuilder\UsingStringBuilder\obj\Debug\UsingStringBuilder.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\UsingStringBuilder\UsingStringBuilder\obj\Debug\UsingStringBuilder.pdb
