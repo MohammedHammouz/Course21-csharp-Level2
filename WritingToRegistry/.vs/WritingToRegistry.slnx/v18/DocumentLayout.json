@@ -5,6 +5,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF460F5D-6556-4574-966D-6718CA9D6980}|WritingToRegistry\\WritingToRegistry.csproj|c:\\users\\m7ama\\onedrive\\desktop\\course21\\course21-csharp-level2\\writingtoregistry\\writingtoregistry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF460F5D-6556-4574-966D-6718CA9D6980}|WritingToRegistry\\WritingToRegistry.csproj|solutionrelative:writingtoregistry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WritingToRegistry||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF460F5D-6556-4574-966D-6718CA9D6980}|WritingToRegistry\\WritingToRegistry.csproj|C:\\Users\\m7ama\\OneDrive\\Desktop\\Course21\\Course21-csharp-Level2\\WritingToRegistry\\writingtoregistry\\app.manifest||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF460F5D-6556-4574-966D-6718CA9D6980}|WritingToRegistry\\WritingToRegistry.csproj|solutionrelative:writingtoregistry\\app.manifest||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +21,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WritingToRegistry",
+              "DocumentMoniker": "C:\\Users\\m7ama\\OneDrive\\Desktop\\Course21\\Course21-csharp-Level2\\WritingToRegistry\\WritingToRegistry\\WritingToRegistry.csproj",
+              "RelativeDocumentMoniker": "WritingToRegistry\\WritingToRegistry.csproj",
+              "ToolTip": "C:\\Users\\m7ama\\OneDrive\\Desktop\\Course21\\Course21-csharp-Level2\\WritingToRegistry\\WritingToRegistry\\WritingToRegistry.csproj",
+              "RelativeToolTip": "WritingToRegistry\\WritingToRegistry.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-17T12:00:46.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\m7ama\\OneDrive\\Desktop\\Course21\\Course21-csharp-Level2\\WritingToRegistry\\WritingToRegistry\\app.manifest",
+              "RelativeDocumentMoniker": "WritingToRegistry\\app.manifest",
+              "ToolTip": "C:\\Users\\m7ama\\OneDrive\\Desktop\\Course21\\Course21-csharp-Level2\\WritingToRegistry\\WritingToRegistry\\app.manifest",
+              "RelativeToolTip": "WritingToRegistry\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2026-03-17T12:00:14.738Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +54,7 @@
               "RelativeDocumentMoniker": "WritingToRegistry\\Program.cs",
               "ToolTip": "C:\\Users\\m7ama\\OneDrive\\Desktop\\Course21\\Course21-csharp-Level2\\WritingToRegistry\\WritingToRegistry\\Program.cs",
               "RelativeToolTip": "WritingToRegistry\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAwAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T10:05:15.553Z",
               "EditorCaption": ""

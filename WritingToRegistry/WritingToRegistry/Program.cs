@@ -10,7 +10,7 @@ namespace WritingToRegistry
     {
         static void Main(string[] args)
         {
-            string KeyPath = @"HKEY_CURRENT_USER\Software\MySoftWare";
+            string KeyPath = @"HKEY_LOCAL_MACHINE\Software\Koko";
             string ValueName = "UserName";
             string ValueData = "User123";
             try
