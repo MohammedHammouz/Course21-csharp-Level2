@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\DeleteValueFromRegistry\DeleteValueFromRegistry\bin\Debug\DeleteValueFromRegistry.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\DeleteValueFromRegistry\DeleteValueFromRegistry\bin\Debug\DeleteValueFromRegistry.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\DeleteValueFromRegistry\DeleteValueFromRegistry\bin\Debug\DeleteValueFromRegistry.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\DeleteValueFromRegistry\DeleteValueFromRegistry\obj\Debug\DeleteValueFromRegistry.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\DeleteValueFromRegistry\DeleteValueFromRegistry\obj\Debug\DeleteValueFromRegistry.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\DeleteValueFromRegistry\DeleteValueFromRegistry\obj\Debug\DeleteValueFromRegistry.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\DeleteValueFromRegistry\DeleteValueFromRegistry\obj\Debug\DeleteValueFromRegistry.pdb
