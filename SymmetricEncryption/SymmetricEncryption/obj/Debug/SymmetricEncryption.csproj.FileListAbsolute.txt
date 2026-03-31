@@ -1,0 +1,7 @@
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SymmetricEncryption\SymmetricEncryption\bin\Debug\SymmetricEncryption.exe.config
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SymmetricEncryption\SymmetricEncryption\bin\Debug\SymmetricEncryption.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SymmetricEncryption\SymmetricEncryption\bin\Debug\SymmetricEncryption.pdb
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SymmetricEncryption\SymmetricEncryption\obj\Debug\SymmetricEncryption.csproj.AssemblyReference.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SymmetricEncryption\SymmetricEncryption\obj\Debug\SymmetricEncryption.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SymmetricEncryption\SymmetricEncryption\obj\Debug\SymmetricEncryption.exe
+C:\Users\m7ama\OneDrive\Desktop\Course21\Course21-csharp-Level2\SymmetricEncryption\SymmetricEncryption\obj\Debug\SymmetricEncryption.pdb
